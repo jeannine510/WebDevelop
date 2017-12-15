@@ -86,3 +86,6 @@ D:\Codes\2Web\ASP_MVC\ASP_MVC\bin\zh-Hans\Microsoft.Owin.Security.MicrosoftAccou
 D:\Codes\2Web\ASP_MVC\ASP_MVC\obj\Debug\ASP_MVC.csprojResolveAssemblyReference.cache
 D:\Codes\2Web\ASP_MVC\ASP_MVC\obj\Debug\ASP_MVC.dll
 D:\Codes\2Web\ASP_MVC\ASP_MVC\obj\Debug\ASP_MVC.pdb
+D:\Codes\2Web\ASP_MVC\ASP_MVC\obj\Debug\ASP_MVC.Migrations.Initial.resources
+D:\Codes\2Web\ASP_MVC\ASP_MVC\obj\Debug\ASP_MVC.csproj.GenerateResource.Cache
+D:\Codes\2Web\ASP_MVC\ASP_MVC\obj\Debug\ASP_MVC.Migrations.Rating.resources
