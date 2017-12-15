@@ -89,3 +89,4 @@ D:\Codes\2Web\ASP_MVC\ASP_MVC\obj\Debug\ASP_MVC.pdb
 D:\Codes\2Web\ASP_MVC\ASP_MVC\obj\Debug\ASP_MVC.Migrations.Initial.resources
 D:\Codes\2Web\ASP_MVC\ASP_MVC\obj\Debug\ASP_MVC.csproj.GenerateResource.Cache
 D:\Codes\2Web\ASP_MVC\ASP_MVC\obj\Debug\ASP_MVC.Migrations.Rating.resources
+D:\Codes\2Web\ASP_MVC\ASP_MVC\obj\Debug\ASP_MVC.Migrations.DataAnnotations.resources
